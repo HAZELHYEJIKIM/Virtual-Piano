@@ -21,7 +21,7 @@ import resource.LayoutConstant;
 import util.Utilities;
 
 /**
- * Encapsulates various sprites that can animate.  Contains methods pertaining
+ * æ»≥Á«œººø‰
  * to the specific animation design of this e-card.
  * @author Derianto Kusuma
  *
